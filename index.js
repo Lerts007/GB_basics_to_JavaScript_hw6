@@ -78,6 +78,9 @@ console.log(title.text);
 console.log("--------------------------------------------------------------------");
 console.log("Задание 6");
 console.log("--------------------------------------------------------------------");
+
+const cardTitle = document.querySelector(".card-title");
+console.log(cardTitle.parentElement);
 // --------------------------------------------------------------------
 // Задание 7
 
